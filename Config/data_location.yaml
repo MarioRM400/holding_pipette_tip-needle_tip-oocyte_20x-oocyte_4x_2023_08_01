@@ -1,0 +1,9 @@
+path: C:\ConceivableProjects\four-classes\v2
+train: images/train 
+val: images/val 
+
+names:
+  0: holding_pipette_tip
+  1: needle_tip
+  2: oocyte_20x
+  3: oocyte_4x
