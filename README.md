@@ -1,0 +1,1 @@
+# holding_pipette_tip-needle_tip-oocyte_20x-oocyte_4x_2023_08_01
